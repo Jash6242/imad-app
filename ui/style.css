@@ -3,6 +3,7 @@ body {
     background-color: indigo;
     margin-top: 75px;
     background-image: url(http://media1.santabanta.com/full1/Outdoors/Landscapes/landscapes-212a.jpg);
+    background-repeat: no-repeat;
 }
 
 .center {
