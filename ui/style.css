@@ -6,11 +6,13 @@ body {
 
 .center {
     text-align: center;
+    color:white
+    
 }
 
 .text-big {
     font-size: 300%;
-}
+    }
 
 .bold {
     font-weight: bold;
