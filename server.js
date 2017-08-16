@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/article-new',function(req,res) {
-   res.sendFile(path.join(__dirname, 'ui', 'my new page.html'));
+   res.sendFile(path.join(__dirname, 'ui', 'mynewpage.html'));
 });
 
 app.get('/ui/style.css', function (req, res) {
